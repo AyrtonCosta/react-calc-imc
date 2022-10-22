@@ -1,4 +1,4 @@
-#Calculadora IMC
+Calculadora IMC
 
 Projeto desenvolvido em ReactJS + TypeScript durando o curso [B7Web](http://b7web.com.br).
 
